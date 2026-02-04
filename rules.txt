@@ -1,0 +1,30 @@
+1. Users must post messages only in the appropriate Darknet channel. Repeated posting in incorrect channels is not permitted.
+
+2. Darknet must not be used for conversations or extended chat. Users should use /tell, OCC, or private channels for discussions.
+
+3. Messages must be related to Anarchy Online. Off‑topic content is not allowed.
+
+4. Insults, harassment, accusations, hackusations, drama, or disruptive behavior are prohibited.
+
+5. Racist, sexist, hateful, or discriminatory messages are not allowed.
+
+6. Scamming, misleading offers, false claims of “free” items or services, or any attempt to deceive other users is prohibited.
+
+7. Posting exploits, hacks, cheat methods, or references to tools or actions that violate Anarchy Online’s EULA is prohibited. This includes:
+   - AOSharp or similar tools
+   - “Tube of Dangerous Matter”
+   - Any mention of server crashing or crash methods
+
+8. Responding to prohibited content (insults, drama, accusations, etc.) is not allowed. Users must not escalate or engage; they should use the !report function instead.
+
+9. Users must not bypass lockout timers by using alts, friends, or other characters to send similar messages.
+
+10. Fake reports or misuse of the !report function is not allowed.
+
+11. Posting malicious links, harmful files, or content intended to disrupt or compromise user safety is prohibited.
+
+12. Darknet must not be used to evade suspensions. Using alts or other characters to continue posting while suspended is prohibited.
+
+13. PvP or “sided” drama is strictly prohibited.
+
+14. All communication must remain within legal boundaries. Illegal activity or facilitation of illegal activity is not allowed.
